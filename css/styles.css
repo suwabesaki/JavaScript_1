@@ -25,7 +25,7 @@
   margin-top: -4px;
 }
 
-.menu.active::before {
+.menu.upArrow::before {
   content: '';
   width: 6px;
   height: 6px;
